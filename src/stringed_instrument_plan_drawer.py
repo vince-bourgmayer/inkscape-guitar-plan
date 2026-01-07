@@ -181,8 +181,8 @@ bridge_x = 215
 
 scale_length = 25.5*inch_to_mm
 bridge_string_spread = 51.5
-fingerboard_bass_margin = 4
-fingerboard_treble_margin = 4
+fingerboard_bass_margin = 2.5
+fingerboard_treble_margin = 2.5
 nut_length = 44.45 #with margin integrated
 
 string_gauge = (10, 13, 17, 30, 42, 52)
