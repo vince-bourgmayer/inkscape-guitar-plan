@@ -62,18 +62,18 @@ string_gauge = (10, 13, 17, 30, 42, 52)
 1. Install Inkscape *I use Inkscape 1.2.2 (b0a8486541, 2022-12-01) on Ubuntu studio*
 2. Install and set up `Simple Inkscape Scripting` [Official repo](https://github.com/spakin/SimpInkScr)
 3. Go in `Extensions > Render > Simple Inkscape Scripting`
-[Open extension](screenshots/1-open_inkscape_simple_script_extension.png)
+![Open extension](screenshots/1-open_inkscape_simple_script_extension.png)
 4. In the pop up, set the script in the `Python file` field
-[Extension dialog](screenshots/2-simple_inkscape_scripting_popup.png)
+![Extension dialog](screenshots/2-simple_inkscape_scripting_popup.png)
 5. Let the `Python code` textfield empty.
 6. Click on `Apply`.
 7. You will see an popup with script's textul output.
 It will help you to check that it is error free. You can just close it.
-[script's logs](screenshots/3-script_execution_log_result.png)
+![script's logs](screenshots/3-script_execution_log_result.png)
 8. Check the draw
-[The draw](screenshots/5-layer_renamed.png)
+![The draw](screenshots/5-layer_renamed.png)
 9. Then, I strongly suggest to rename different layer, path & object to keep it clear.
-[content renamed example](screenshots/5-layer_renamed.png)
+![content renamed example](screenshots/5-layer_renamed.png)
 
 
 ## Example
