@@ -71,7 +71,7 @@ string_gauge = (10, 13, 17, 30, 42, 52)
 It will help you to check that it is error free. You can just close it.
 ![script's logs](screenshots/3-script_execution_log_result.png)
 8. Check the draw
-![The draw](screenshots/5-layer_renamed.png)
+![The draw](screenshots/4-result_plan.png)
 9. Then, I strongly suggest to rename different layer, path & object to keep it clear.
 ![content renamed example](screenshots/5-layer_renamed.png)
 
